@@ -29,5 +29,8 @@ body {
 }
 
 .verdin {
-    color:#11a36a
+    color:#11a36a;
+    font-weight: 700;
+    font-size: 20px;  
+    
 }

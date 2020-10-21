@@ -1,9 +1,11 @@
 body {
     background-color:rgb(193 205 205);
+    font-family: 'Staatliches', sans-serif, cursive;
 }
 
 .borda {
     border-radius: 100%;
+    margin-top: 100px;
 }
 
 .button {
@@ -22,10 +24,10 @@ body {
     color: #11a36a;
     font-weight: 700;
     font-size: 22px;
-}
-
-.tudo {
     background-color: white;
+    float: left;
+    width: 50%;
+    clear: both;
 }
 
 .verdin {
@@ -33,4 +35,22 @@ body {
     font-weight: 700;
     font-size: 20px;  
     
+}
+
+.roxo {
+    text-decoration: none;
+}
+
+.botaoinicial {
+    background-color: #11a36a;    
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10%;
+}
+
+.position {
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 10%;
 }
